@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Lora Local';
+    src: url('/wp-content/uploads/elementor/cmsmasters-local-fonts/lora_local/Lora-Italic.woff2') format('woff2'),
+        url('/wp-content/uploads/elementor/cmsmasters-local-fonts/lora_local/Lora-Italic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lora Local';
+    src: url('/wp-content/uploads/elementor/cmsmasters-local-fonts/lora_local/Lora-Regular.woff2') format('woff2'),
+        url('/wp-content/uploads/elementor/cmsmasters-local-fonts/lora_local/Lora-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+

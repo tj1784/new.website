@@ -1,0 +1,10 @@
+.olControlZoomPanel div {
+    background-image: url(/wp-content/plugins/directorist/assets/vendor-js/openstreet-map/openlayers/theme/default/img/zoom-panel-NOALPHA.png);
+}
+.olControlPanPanel div {
+    background-image: url(/wp-content/plugins/directorist/assets/vendor-js/openstreet-map/openlayers/theme/default/img/pan-panel-NOALPHA.png);
+}
+.olControlEditingToolbar {
+    width: 200px;
+}
+
